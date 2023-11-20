@@ -13,7 +13,7 @@ showSocial: false
 showTags: false
 ---
 
-# [Kaptue](https://kaptue.com/)
+# [Kaptue](https://kaptue.com/) & [Destinno](https://destinno.com/en/propuestas-de-viaje-que-enamoran-a-tus-clientes/)
 
 > I have had the opportunity to collaborate professionally with Christen in the architecture design and implementation of a cross-platform application with Flutter and the experience has been very good.
 
