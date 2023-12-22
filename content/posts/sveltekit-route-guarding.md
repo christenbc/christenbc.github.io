@@ -52,7 +52,7 @@ So far the best resource I could find. However, I found some caveats that needed
 1. Client-side navigation could not be handled correctly
 2. Reactiveness on logging out from within any protected page
 
-Both problems can be solved by using a simple +layout.server.ts for all the protected routes:
+Both problems can be solved by using a simple `+layout.server.ts` for all the protected routes:
 
 ```ts
 import type { LayoutServerLoad } from "./$types";
